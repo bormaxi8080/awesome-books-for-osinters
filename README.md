@@ -19,6 +19,10 @@
 
 **- [Иан Милл, Эйдан Робсон Сейерс - Docker на практике, O'Relly, 2021 (RU)](/Docker/Mill_Seers_Docker_in_Practice.pdf)**
 
+*DevOps:*
+
+**- [Брендан Бернс, Эдди Вильяльба - Kubernetes, лучшие практики для профессионалов, O'Relly, 2021 (RU)](/DevOps/Berns_Kubernetes_Best_Practices.pdf)**
+
 *Databases:*
 
 **- [Шеннон Бредшоу - MongoDB. Полное руководство, O'Relly, 2020 (RU)](/Databases/)**

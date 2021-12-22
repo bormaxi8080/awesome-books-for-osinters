@@ -11,9 +11,13 @@
 
 **- [Мэтью А. Титмус - Облачный Go, O'Relly, 2021 (RU)](/GoLang/Titmus_Cloud_Native_Go_2022.pdf)**
 
+*Python:*
+
+**- [Васильев А.Н. - Программирование на Python в примерах и задачах, Эксмо, 2021 (RU)](/Python/Vasiliev_Programming_Python.pdf)**
+
 *Shell:*
 
-**- [Илья Шпигорь - Программирование на Bash с нуля, 2021 (RU)](/Shell/Bash_programmin.pdf)**
+**- [Илья Шпигорь - Программирование на Bash с нуля, 2021 (RU)](/Shell/Bash_programming.pdf)**
 
 *Docker:*
 
@@ -33,4 +37,10 @@
 
 **- [Райан Митчелл - Современный скрапинг веб-сайтов с помощью Python, 2021 (RU)](/Other/Mitchel_Python_Web_Scraping.pdf)**
 
-**- [Dave Child - Regilar Expressions Cheat Sheet (EN)](/Other/RegExp_cheat_sheet.pdf)**
+**- [Адилья Бхаргава - Грокаем алгоритмы, 2021 (RU)](/Other/Bkhargava_Grokaem_Algoritmy.pdf)**
+
+**- [Джеймсон М. Смит - Элементарные шаблоны проектирования, 2013 (RU)](/Other/Smith_Elemental_Design_Patterns.pdf)**
+
+**- [Титус Виттерс - Делай как в Google (Software Engineering in Google), O'Relly, 2021 (RU)](/Other/Software_Engineering_in_Google.pdf)**
+
+**- [Dave Child - Regular Expressions Cheat Sheet (EN)](/Other/RegExp_cheat_sheet.pdf)**

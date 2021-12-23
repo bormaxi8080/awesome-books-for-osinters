@@ -35,6 +35,10 @@
 
 *Разное:*
 
+**- [Тейт Брюс - 7 языков за 7 недель. Практическое руководство по изучению языков программирования, 2021 (RU)](/Other/Bruce_7langs_on_7weeks.pdf)**
+
+**- [Эндрю Хоффман - Безопасность web приложений. Разведка, защите, нападение, O'Relly, 2021 (RU)](/Other/Hoffman_Web_applications_security.pdf)**
+
 **- [Райан Митчелл - Современный скрапинг веб-сайтов с помощью Python, 2021 (RU)](/Other/Mitchel_Python_Web_Scraping.pdf)**
 
 **- [Адилья Бхаргава - Грокаем алгоритмы, 2021 (RU)](/Other/Bkhargava_Grokaem_Algoritmy.pdf)**
@@ -42,5 +46,7 @@
 **- [Джеймсон М. Смит - Элементарные шаблоны проектирования, 2013 (RU)](/Other/Smith_Elemental_Design_Patterns.pdf)**
 
 **- [Титус Виттерс - Делай как в Google (Software Engineering in Google), O'Relly, 2021 (RU)](/Other/Software_Engineering_in_Google.pdf)**
+
+**- [Академия МВД России - Цифровая криминология, 2021 (RU)](/Other/MVD_Digital_Criminology.pdf)**
 
 **- [Dave Child - Regular Expressions Cheat Sheet (EN)](/Other/RegExp_cheat_sheet.pdf)**

@@ -3,7 +3,19 @@
 
 Книги в формате PDF находятся в папках соответствующих разделов.
 
-## Содержание:
+## Содержание
+
+*JS:*
+
+**- [Node.js. Официальное руководство](/JS/Node.js_Official_Guide.pdf)**
+
+**- Илья Кантор - JavaScript. Полное руководство:**
+
+[Первая часть (основная)](/JS/Kantor_JS_Modern_Textbook_2019/js.pdf)
+
+[Вторая часть (дополнения)](/JS/Kantor_JS_Modern_Textbook_2019/more.pdf)
+
+[Третья часть (UI)](/JS/Kantor_JS_Modern_Textbook_2019/ui.pdf)
 
 *GoLang:*
 

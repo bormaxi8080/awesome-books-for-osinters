@@ -47,6 +47,11 @@
 
 *Разное:*
 
+
+**- [Карл Сегуин - Маленькая книга о Redis (RU)](/Other/Seguin_redis-liitle-book.pdf)**
+
+**- [Программирование на языке Erlang (RU)](/Other/Erlang-programming-guide.pdf)**
+
 **- [Тейт Брюс - 7 языков за 7 недель. Практическое руководство по изучению языков программирования, 2021 (RU)](/Other/Bruce_7langs_on_7weeks.pdf)**
 
 **- [Эндрю Хоффман - Безопасность web приложений. Разведка, защите, нападение, O'Relly, 2021 (RU)](/Other/Hoffman_Web_applications_security.pdf)**

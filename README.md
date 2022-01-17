@@ -95,8 +95,7 @@ PHP:
 
 **- [Титус Виттерс - Делай как в Google (Software Engineering in Google), O'Relly, 2021 (RU)](/Other/Software_Engineering_in_Google.pdf)**
 
-**- [Подходит для Due для создания большого web-приложения. Доклад](/Frontend/Solodovnikov_
-Vue-large-webapp.pdf)**
+**- [Подходит ли Vue для создания большого web-приложения. Доклад](/Frontend/Solodovnikov_Vue-large-webapp.pdf)**
 
 **- [Dave Child - Regular Expressions Cheat Sheet (EN)](/Other/RegExp_cheat_sheet.pdf)**
 

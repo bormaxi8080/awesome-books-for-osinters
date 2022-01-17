@@ -73,9 +73,9 @@ PHP:
 
 [Том I](/Other/Knut-1.pdf)
 
-[Том I](/Other/Knut-2.pdf)
+[Том II](/Other/Knut-2.pdf)
 
-[Том I](/Other/Knut-3.pdf)
+[Том III](/Other/Knut-3.pdf)
 
 **- [Карл Сегуин - Маленькая книга о Redis (RU)](/Other/Seguin_redis-liitle-book.pdf)**
 

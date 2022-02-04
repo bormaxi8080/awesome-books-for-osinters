@@ -35,6 +35,8 @@ PHP:
 
 *C++:*
 
+**- [Берн Страуструп - Язык программирования C++, 2 издание](/CPP/straustrup_cpp.pdf)**
+
 **- [Кувшинов Д.Р., Осипов С.И. - Язык C++: Основы программирования. Практикум (RU)](/CPP/kuvshinov_dr_osipov_si_osnovy_programmirovaniia_iazyk_c_P.pdf)**
 
 *Shell:*

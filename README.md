@@ -79,6 +79,8 @@ PHP:
 
 [Том III](/Other/Knut-3.pdf)
 
+**- [Джордан Морроу - Как вытащить из данных максимум. Навыки аналитики для неспециалистов](/Other/dzhordan_morrou-kak_vitashit_iz_dannih_ma-61febfe44a31a.epub)**
+
 **- [Карл Сегуин - Маленькая книга о Redis (RU)](/Other/Seguin_redis-liitle-book.pdf)**
 
 **- [Программирование на языке Erlang (RU)](/Other/Erlang-programming-guide.pdf)**

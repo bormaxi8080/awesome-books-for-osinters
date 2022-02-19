@@ -2,3 +2,5 @@
 .exe
 .dll
 .idea
+
+copy-calibre-metadata.sh

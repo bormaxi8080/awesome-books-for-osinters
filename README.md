@@ -85,6 +85,12 @@ PHP:
 
 [Том III](/Other/Knut-3.pdf)
 
+**- [Колесниченко Д. - Хакинг на Linux](/Other/Linux_hacking.pdf)**
+
+**- [Ken Underhill - Hack the Cybersecurity Interview](/Other/Hack_the_Cybersecurity_Interview.pdf)**
+
+**- [Extreme Privacy. What It Takes to Disappear: Fourth Edition](/Other/Extreme_Privacy.pdf)**
+
 **- [Джордан Морроу - Как вытащить из данных максимум. Навыки аналитики для неспециалистов](/Other/dzhordan_morrou-kak_vitashit_iz_dannih_ma-61febfe44a31a.epub)**
 
 **- [Карл Сегуин - Маленькая книга о Redis (RU)](/Other/Seguin_redis-liitle-book.pdf)**

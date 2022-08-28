@@ -85,6 +85,8 @@ PHP:
 
 [Том III](/Other/Knut-3.pdf)
 
+**- [Джордан Морроу - Как вытащить из данных максимум. Навыки аналитики для неспециалистов](/Other/Morrow_Data.epub)**
+
 **- [Колесниченко Д. - Хакинг на Linux](/Other/Linux_hacking.pdf)**
 
 **- [Ken Underhill - Hack the Cybersecurity Interview](/Other/Hack_the_Cybersecurity_Interview.pdf)**

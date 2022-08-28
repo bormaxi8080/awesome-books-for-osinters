@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ru">
+<head>
+<meta name="dtb:uid" content="urn:uuid:6bdeff1e-120c-11e2-86b3-b737ee03444a"/>
+<meta name="dtb:depth" content="3"/>
+<meta name="dtb:totalPageNumber" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>Как вытащить из данных максимум. Навыки аналитики для неспециалистов</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="id1">
+<navLabel>
+<text>Об авторе</text>
+</navLabel>
+<content src="ch1-3.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="2" id="id2">
+<navLabel>
+<text>Предисловие</text>
+</navLabel>
+<content src="ch1-4.xhtml#id2"/>
+</navPoint>
+<navPoint playOrder="3" id="id3">
+<navLabel>
+<text>01 Мир данных</text>
+</navLabel>
+<content src="ch1-5.xhtml#id3"/>
+<navPoint playOrder="4" id="id4">
+<navLabel>
+<text>Данные: мир, в котором мы живем</text>
+</navLabel>
+<content src="ch1-5.xhtml#id4"/>
+</navPoint>
+<navPoint playOrder="5" id="id5">
+<navLabel>
+<text>Данные: нехватка навыков</text>
+</navLabel>
+<content src="ch1-5.xhtml#id5"/>
+</navPoint>
+<navPoint playOrder="6" id="id6">
+<navLabel>
+<text>Данные: в чем причина нехватки навыков?</text>
+</navLabel>
+<content src="ch1-6.xhtml#id6"/>
+</navPoint>
+<navPoint playOrder="7" id="id7">
+<navLabel>
+<text>Данные: что дальше?</text>
+</navLabel>
+<content src="ch1-6.xhtml#id7"/>
+</navPoint>
+<navPoint playOrder="8" id="id8">
+<navLabel>
+<text>Краткое содержание главы</text>
+</navLabel>
+<content src="ch1-6.xhtml#id8"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="9" id="id9">
+<navLabel>
+<text>02 Четыре уровня аналитических методов</text>
+</navLabel>
+<content src="ch1-7.xhtml#id9"/>
+<navPoint playOrder="10" id="id10">
+<navLabel>
+<text>Данные и их анализ – целых четыре уровня?</text>
+</navLabel>
+<content src="ch1-7.xhtml#id10"/>
+</navPoint>
+<navPoint playOrder="11" id="id11">
+<navLabel>
+<text>Четыре уровня аналитических методов</text>
+</navLabel>
+<content src="ch1-7.xhtml#id11"/>
+</navPoint>
+<navPoint playOrder="12" id="id12">
+<navLabel>
+<text>Уровень 1: дескриптивные (описательные) аналитические методы</text>
+</navLabel>
+<content src="ch1-7.xhtml#id12"/>
+</navPoint>
+<navPoint playOrder="13" id="id13">
+<navLabel>
+<text>Уровень 2: диагностические аналитические методы</text>
+</navLabel>
+<content src="ch1-7.xhtml#id13"/>
+</navPoint>
+<navPoint playOrder="14" id="id14">
+<navLabel>
+<text>Уровень 3: предиктивные (предсказательные) аналитические методы</text>
+</navLabel>
+<content src="ch1-7.xhtml#id14"/>
+</navPoint>
+<navPoint playOrder="15" id="id15">
+<navLabel>
+<text>Уровень 4: прескриптивные (предписывающие) аналитические методы</text>
+</navLabel>
+<content src="ch1-7.xhtml#id15"/>
+</navPoint>
+<navPoint playOrder="16" id="id16">
+<navLabel>
+<text>Примеры использования четырех уровней аналитических методов в реальной жизни</text>
+</navLabel>
+<content src="ch1-7.xhtml#id16"/>
+</navPoint>
+<navPoint playOrder="17" id="id17">
+<navLabel>
+<text>Краткое содержание главы</text>
+</navLabel>
+<content src="ch1-7.xhtml#id17"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="18" id="id18">
+<navLabel>
+<text>03 Определение дата-грамотности</text>
+</navLabel>
+<content src="ch1-8.xhtml#id18"/>
+<navPoint playOrder="19" id="id19">
+<navLabel>
+<text>Элемент 1: чтение данных</text>
+</navLabel>
+<content src="ch1-8.xhtml#id19"/>
+</navPoint>
+<navPoint playOrder="20" id="id20">
+<navLabel>
+<text>Элемент 2: работа с данными</text>
+</navLabel>
+<content src="ch1-8.xhtml#id20"/>
+</navPoint>
+<navPoint playOrder="21" id="id21">
+<navLabel>
+<text>Элемент 3: анализ данных</text>
+</navLabel>
+<content src="ch1-8.xhtml#id21"/>
+</navPoint>
+<navPoint playOrder="22" id="id22">
+<navLabel>
+<text>Элемент 4: общение на языке данных</text>
+</navLabel>
+<content src="ch1-8.xhtml#id22"/>
+</navPoint>
+<navPoint playOrder="23" id="id23">
+<navLabel>
+<text>Краткое содержание главы</text>
+</navLabel>
+<content src="ch1-8.xhtml#id23"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="24" id="id24">
+<navLabel>
+<text>04 Зонтик дата-грамотности</text>
+</navLabel>
+<content src="ch1-9.xhtml#id24"/>
+<navPoint playOrder="25" id="id25">
+<navLabel>
+<text>Стратегия в сфере данных и аналитики</text>
+</navLabel>
+<content src="ch1-9.xhtml#id25"/>
+</navPoint>
+<navPoint playOrder="26" id="id26">
+<navLabel>
+<text>Дата-грамотность и обработка данных</text>
+</navLabel>
+<content src="ch1-9.xhtml#id26"/>
+</navPoint>
+<navPoint playOrder="27" id="id27">
+<navLabel>
+<text>Дата-грамотность и визуализация данных</text>
+</navLabel>
+<content src="ch1-9.xhtml#id27"/>
+</navPoint>
+<navPoint playOrder="28" id="id28">
+<navLabel>
+<text>Дата-грамотность и топ-менеджмент</text>
+</navLabel>
+<content src="ch1-9.xhtml#id28"/>
+</navPoint>
+<navPoint playOrder="29" id="id29">
+<navLabel>
+<text>Дата-грамотность и культура</text>
+</navLabel>
+<content src="ch1-9.xhtml#id29"/>
+</navPoint>
+<navPoint playOrder="30" id="id30">
+<navLabel>
+<text>Дата-грамотность и качество данных</text>
+</navLabel>
+<content src="ch1-9.xhtml#id30"/>
+</navPoint>
+<navPoint playOrder="31" id="id31">
+<navLabel>
+<text>Дата-грамотность и управление данными</text>
+</navLabel>
+<content src="ch1-9.xhtml#id31"/>
+</navPoint>
+<navPoint playOrder="32" id="id32">
+<navLabel>
+<text>Дата-грамотность, этика и законодательство</text>
+</navLabel>
+<content src="ch1-9.xhtml#id32"/>
+</navPoint>
+<navPoint playOrder="33" id="id33">
+<navLabel>
+<text>Краткое содержание главы</text>
+</navLabel>
+<content src="ch1-9.xhtml#id33"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="34" id="id34">
+<navLabel>
+<text>05 Чтение и общение на языке данных</text>
+</navLabel>
+<content src="ch1-10.xhtml#id34"/>
+<navPoint playOrder="35" id="id35">
+<navLabel>
+<text>Чтение данных</text>
+</navLabel>
+<content src="ch1-10.xhtml#id35"/>
+</navPoint>
+<navPoint playOrder="36" id="id36">
+<navLabel>
+<text>Свободное владение данными</text>
+</navLabel>
+<content src="ch1-10.xhtml#id36"/>
+</navPoint>
+<navPoint playOrder="37" id="id37">
+<navLabel>
+<text>Словарь данных</text>
+</navLabel>
+<content src="ch1-10.xhtml#id37"/>
+</navPoint>
+<navPoint playOrder="38" id="id38">
+<navLabel>
+<text>Стратегия чтения данных и свободного владения данными</text>
+</navLabel>
+<content src="ch1-10.xhtml#id38"/>
+</navPoint>
+<navPoint playOrder="39" id="id39">
+<navLabel>
+<text>Пример из жизни организации</text>
+</navLabel>
+<content src="ch1-10.xhtml#id39"/>
+</navPoint>
+<navPoint playOrder="40" id="id40">
+<navLabel>
+<text>Краткое содержание главы</text>
+</navLabel>
+<content src="ch1-10.xhtml#id40"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="41" id="id41">
+<navLabel>
+<text>06 Связь дата-грамотности с четырьмя уровнями аналитики</text>
+</navLabel>
+<content src="ch1-11.xhtml#id41"/>
+<navPoint playOrder="42" id="id42">
+<navLabel>
+<text>Дата-грамотность и дескриптивный анализ</text>
+</navLabel>
+<content src="ch1-11.xhtml#id42"/>
+</navPoint>
+<navPoint playOrder="43" id="id43">
+<navLabel>
+<text>Дата-грамотность и диагностический анализ</text>
+</navLabel>
+<content src="ch1-12.xhtml#id43"/>
+</navPoint>
+<navPoint playOrder="44" id="id44">
+<navLabel>
+<text>Дата-грамотность и предиктивный анализ</text>
+</navLabel>
+<content src="ch1-12.xhtml#id44"/>
+</navPoint>
+<navPoint playOrder="45" id="id45">
+<navLabel>
+<text>Дата-грамотность и прескриптивный анализ</text>
+</navLabel>
+<content src="ch1-12.xhtml#id45"/>
+</navPoint>
+<navPoint playOrder="46" id="id46">
+<navLabel>
+<text>Дата-грамотность и четыре уровня аналитики: готовая мозаика</text>
+</navLabel>
+<content src="ch1-12.xhtml#id46"/>
+</navPoint>
+<navPoint playOrder="47" id="id47">
+<navLabel>
+<text>Краткое содержание главы</text>
+</navLabel>
+<content src="ch1-12.xhtml#id47"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="48" id="id48">
+<navLabel>
+<text>07 Стадии обучения дата-грамотности</text>
+</navLabel>
+<content src="ch1-13.xhtml#id48"/>
+<navPoint playOrder="49" id="id49">
+<navLabel>
+<text>Роль руководства в обучении дата-грамотности</text>
+</navLabel>
+<content src="ch1-13.xhtml#id49"/>
+</navPoint>
+<navPoint playOrder="50" id="id50">
+<navLabel>
+<text>Роль общей аналитической стратегии и обучения дата-грамотности</text>
+</navLabel>
+<content src="ch1-13.xhtml#id50"/>
+</navPoint>
+<navPoint playOrder="51" id="id51">
+<navLabel>
+<text>Схема и стратегия обучения дата-грамотности</text>
+</navLabel>
+<content src="ch1-13.xhtml#id51"/>
+</navPoint>
+<navPoint playOrder="52" id="id52">
+<navLabel>
+<text>Обучение четырем элементам дата-грамотности</text>
+</navLabel>
+<content src="ch1-13.xhtml#id52"/>
+</navPoint>
+<navPoint playOrder="53" id="id53">
+<navLabel>
+<text>Обучение и культура дата-грамотности</text>
+</navLabel>
+<content src="ch1-13.xhtml#id53"/>
+</navPoint>
+<navPoint playOrder="54" id="id54">
+<navLabel>
+<text>Краткое содержание главы</text>
+</navLabel>
+<content src="ch1-13.xhtml#id54"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="55" id="id55">
+<navLabel>
+<text>08 Три «С» дата-грамотности</text>
+</navLabel>
+<content src="ch1-14.xhtml#id55"/>
+<navPoint playOrder="56" id="id56">
+<navLabel>
+<text>Curiosity – любопытство</text>
+</navLabel>
+<content src="ch1-15.xhtml#id56"/>
+</navPoint>
+<navPoint playOrder="57" id="id57">
+<navLabel>
+<text>Creativity – творческий подход</text>
+</navLabel>
+<content src="ch1-16.xhtml#id57"/>
+</navPoint>
+<navPoint playOrder="58" id="id58">
+<navLabel>
+<text>Critical thinking – критическое мышление</text>
+</navLabel>
+<content src="ch1-16.xhtml#id58"/>
+</navPoint>
+<navPoint playOrder="59" id="id59">
+<navLabel>
+<text>Общение на языке данных</text>
+</navLabel>
+<content src="ch1-16.xhtml#id59"/>
+</navPoint>
+<navPoint playOrder="60" id="id60">
+<navLabel>
+<text>Краткое содержание главы</text>
+</navLabel>
+<content src="ch1-16.xhtml#id60"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="61" id="id61">
+<navLabel>
+<text>09 Принятие решений, подкрепленных данными</text>
+</navLabel>
+<content src="ch1-17.xhtml#id61"/>
+<navPoint playOrder="62" id="id62">
+<navLabel>
+<text>Схема принятия решений, подкрепленных данными</text>
+</navLabel>
+<content src="ch1-17.xhtml#id62"/>
+</navPoint>
+<navPoint playOrder="63" id="id63">
+<navLabel>
+<text>Ступень 1. Спросить</text>
+</navLabel>
+<content src="ch1-17.xhtml#id63"/>
+</navPoint>
+<navPoint playOrder="64" id="id64">
+<navLabel>
+<text>Ступень 2. Получить</text>
+</navLabel>
+<content src="ch1-17.xhtml#id64"/>
+</navPoint>
+<navPoint playOrder="65" id="id65">
+<navLabel>
+<text>Ступень 3. Проанализировать</text>
+</navLabel>
+<content src="ch1-17.xhtml#id65"/>
+</navPoint>
+<navPoint playOrder="66" id="id66">
+<navLabel>
+<text>Ступень 4. Интегрировать</text>
+</navLabel>
+<content src="ch1-17.xhtml#id66"/>
+</navPoint>
+<navPoint playOrder="67" id="id67">
+<navLabel>
+<text>Ступень 5. Решить</text>
+</navLabel>
+<content src="ch1-17.xhtml#id67"/>
+</navPoint>
+<navPoint playOrder="68" id="id68">
+<navLabel>
+<text>Ступень 6. Выполнить итерацию</text>
+</navLabel>
+<content src="ch1-17.xhtml#id68"/>
+</navPoint>
+<navPoint playOrder="69" id="id69">
+<navLabel>
+<text>Краткое содержание главы и пример</text>
+</navLabel>
+<content src="ch1-17.xhtml#id69"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="70" id="id70">
+<navLabel>
+<text>10 Дата-грамотность и стратегия в сфере данных и аналитики</text>
+</navLabel>
+<content src="ch1-18.xhtml#id70"/>
+<navPoint playOrder="71" id="id71">
+<navLabel>
+<text>Культура, основанная на данных</text>
+</navLabel>
+<content src="ch1-18.xhtml#id71"/>
+</navPoint>
+<navPoint playOrder="72" id="id72">
+<navLabel>
+<text>Бизнес-аналитика</text>
+</navLabel>
+<content src="ch1-18.xhtml#id72"/>
+</navPoint>
+<navPoint playOrder="73" id="id73">
+<navLabel>
+<text>Искусственный интеллект</text>
+</navLabel>
+<content src="ch1-18.xhtml#id73"/>
+</navPoint>
+<navPoint playOrder="74" id="id74">
+<navLabel>
+<text>Машинное обучение и алгоритмы</text>
+</navLabel>
+<content src="ch1-18.xhtml#id74"/>
+</navPoint>
+<navPoint playOrder="75" id="id75">
+<navLabel>
+<text>Большие данные</text>
+</navLabel>
+<content src="ch1-18.xhtml#id75"/>
+</navPoint>
+<navPoint playOrder="76" id="id76">
+<navLabel>
+<text>Внутренняя аналитика</text>
+</navLabel>
+<content src="ch1-18.xhtml#id76"/>
+</navPoint>
+<navPoint playOrder="77" id="id77">
+<navLabel>
+<text>Облачные сервисы</text>
+</navLabel>
+<content src="ch1-18.xhtml#id77"/>
+</navPoint>
+<navPoint playOrder="78" id="id78">
+<navLabel>
+<text>Периферийная аналитика</text>
+</navLabel>
+<content src="ch1-18.xhtml#id78"/>
+</navPoint>
+<navPoint playOrder="79" id="id79">
+<navLabel>
+<text>Геоаналитика</text>
+</navLabel>
+<content src="ch1-18.xhtml#id79"/>
+</navPoint>
+<navPoint playOrder="80" id="id80">
+<navLabel>
+<text>Краткое содержание главы</text>
+</navLabel>
+<content src="ch1-18.xhtml#id80"/>
+</navPoint>
+</navPoint>
+<navPoint playOrder="81" id="id81">
+<navLabel>
+<text>11 Ваше личное путешествие в мир данных: первые шаги</text>
+</navLabel>
+<content src="ch1-19.xhtml#id81"/>
+<navPoint playOrder="82" id="id82">
+<navLabel>
+<text>COVID-19, данные и аналитика</text>
+</navLabel>
+<content src="ch1-19.xhtml#id82"/>
+</navPoint>
+<navPoint playOrder="83" id="id83">
+<navLabel>
+<text>Рецепты</text>
+</navLabel>
+<content src="ch1-19.xhtml#id83"/>
+</navPoint>
+<navPoint playOrder="84" id="id84">
+<navLabel>
+<text>Проактивная и реактивная аналитика</text>
+</navLabel>
+<content src="ch1-19.xhtml#id84"/>
+</navPoint>
+<navPoint playOrder="85" id="id85">
+<navLabel>
+<text>Начинайте с основ</text>
+</navLabel>
+<content src="ch1-19.xhtml#id85"/>
+</navPoint>
+<navPoint playOrder="86" id="id86">
+<navLabel>
+<text>Данные и аналитика: геймификация</text>
+</navLabel>
+<content src="ch1-19.xhtml#id86"/>
+</navPoint>
+<navPoint playOrder="87" id="id87">
+<navLabel>
+<text>Найдите то, что вам интересно, и займитесь этим</text>
+</navLabel>
+<content src="ch1-19.xhtml#id87"/>
+</navPoint>
+<navPoint playOrder="88" id="id88">
+<navLabel>
+<text>Найдите свои «почему»</text>
+</navLabel>
+<content src="ch1-19.xhtml#id88"/>
+</navPoint>
+<navPoint playOrder="89" id="id89">
+<navLabel>
+<text>Краткое содержание главы</text>
+</navLabel>
+<content src="ch1-19.xhtml#id89"/>
+</navPoint>
+</navPoint>
+</navMap>
+</ncx>

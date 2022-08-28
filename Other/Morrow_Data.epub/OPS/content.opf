@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="bookid" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+<dc:title>Как вытащить из данных максимум. Навыки аналитики для неспециалистов</dc:title>
+<dc:creator>Джордан Морроу</dc:creator>
+<meta name="FB2.book-info.translator" content="Мария Леонидовна Кульнева"/>
+<dc:language>ru</dc:language>
+<dc:description>Дата-грамотность, то есть способность ориентироваться в мире данных, – ключевой навык сегодняшнего дня. Ежедневно в соцсетях публикуются миллиарды сообщений, электронные почтовые ящики по всей планете гудят от писем, а каждый подключенный к интернету автомобиль производит терабайты данных, не говоря уже об онлайн-магазинах, платежных системах и государственных цифровых сервисах. Однако работать с данными, анализировать их и использовать их для бизнеса по-прежнему умеет меньшинство, а специалистов катастрофически не хватает. Для тех, кто хочет научиться говорить на языке данных уверенно, признанный эксперт в области дата-грамотности Джордан Морроу и написал свою книгу. Это практическое руководство позволит даже неспециалисту освоить четыре базовых уровня аналитики и узнать, как принимать эффективные решения на основе данных, чтобы извлекать максимум из информации и быть успешным в быстро меняющемся цифровом мире. </dc:description>
+<meta name="FB2.book-info.date" content="2021-01-01"/>
+<dc:date>2021</dc:date>
+<meta name="FB2.document-info.program-used" content="FictionBook Editor Release 2.6.7"/>
+<meta name="FB2.document-info.src-url" content="http://www.litres.ru/pages/biblio_book/?art=67106340"/>
+<meta name="FB2.document-info.src-ocr" content="Текст предоставлен правообладателем"/>
+<meta name="FB2.document-info.history" content="v 1.0 – создание fb2 – (On84ly) "/>
+<meta name="FB2.document-info.id" content="6bdeff1e-120c-11e2-86b3-b737ee03444a"/>
+<meta name="FB2.document-info.version" content="1.0"/>
+<meta name="FB2.document-info.date" content="2021-01-01"/>
+<dc:identifier id="bookid">urn:uuid:6bdeff1e-120c-11e2-86b3-b737ee03444a</dc:identifier>
+<dc:publisher>Альпина Паблишер</dc:publisher>
+<meta name="FB2.publish-info.book-name" content="Как вытащить из данных максимум: Навыки аналитики для неспециалистов"/>
+<meta name="FB2.publish-info.city" content="Москва"/>
+<meta name="FB2.publish-info.year" content="2022"/>
+<dc:identifier id="bookid1">isbn:978-5-9614-7563-0</dc:identifier>
+<meta name="FB2EPUB.version" content="0.5.0"/>
+<meta name="FB2EPUB.conversionDate" content="2022-02-01T22:27:51+00:00"/>
+<meta name="cover" content="id1"/>
+</metadata>
+<manifest>
+<item href="images/i_022.png" media-type="image/png" id="id2"/>
+<item href="images/i_009.png" media-type="image/png" id="id3"/>
+<item href="images/i_010.png" media-type="image/png" id="id4"/>
+<item href="images/i_005.png" media-type="image/png" id="id5"/>
+<item href="images/i_017.png" media-type="image/png" id="id6"/>
+<item href="fonts/Times-New-Roman-700-6bdeff1e-120c-11e2-86b3-b737ee03444a.otf" media-type="application/vnd.ms-opentype" id="id7"/>
+<item href="toc.ncx" media-type="application/x-dtbncx+xml" id="id8"/>
+<item href="images/i_025.png" media-type="image/png" id="id9"/>
+<item href="images/i_001.png" media-type="image/png" id="id10"/>
+<item href="images/i_013.png" media-type="image/png" id="id11"/>
+<item href="images/i_021.png" media-type="image/png" id="id12"/>
+<item href="images/i_008.png" media-type="image/png" id="id13"/>
+<item href="ch2.xhtml" media-type="application/xhtml+xml" id="id14"/>
+<item href="cover.xhtml" media-type="application/xhtml+xml" id="id15"/>
+<item href="ch1.xhtml" media-type="application/xhtml+xml" id="id16"/>
+<item href="images/i_004.png" media-type="image/png" id="id17"/>
+<item href="images/i_016.png" media-type="image/png" id="id18"/>
+<item href="images/i_024.png" media-type="image/png" id="id19"/>
+<item href="images/i_012.png" media-type="image/png" id="id20"/>
+<item href="fonts/Times-New-Roman-700-Italic-6bdeff1e-120c-11e2-86b3-b737ee03444a.otf" media-type="application/vnd.ms-opentype" id="id21"/>
+<item href="images/i_020.png" media-type="image/png" id="id22"/>
+<item href="fonts/Times-New-Roman-400-Italic-6bdeff1e-120c-11e2-86b3-b737ee03444a.otf" media-type="application/vnd.ms-opentype" id="id23"/>
+<item href="images/i_019.png" media-type="image/png" id="id24"/>
+<item href="images/i_007.png" media-type="image/png" id="id25"/>
+<item href="style.css" media-type="text/css" id="id26"/>
+<item href="images/i_003.png" media-type="image/png" id="id27"/>
+<item href="images/i_015.png" media-type="image/png" id="id28"/>
+<item href="images/cover.jpg" media-type="image/jpeg" id="id1"/>
+<item href="images/i_023.png" media-type="image/png" id="id29"/>
+<item href="images/i_011.png" media-type="image/png" id="id30"/>
+<item href="ch1-14.xhtml" media-type="application/xhtml+xml" id="id31"/>
+<item href="ch1-11.xhtml" media-type="application/xhtml+xml" id="id32"/>
+<item href="ch1-19.xhtml" media-type="application/xhtml+xml" id="id33"/>
+<item href="ch1-16.xhtml" media-type="application/xhtml+xml" id="id34"/>
+<item href="ch1-13.xhtml" media-type="application/xhtml+xml" id="id35"/>
+<item href="ch1-10.xhtml" media-type="application/xhtml+xml" id="id36"/>
+<item href="fonts/Times-New-Roman-400-6bdeff1e-120c-11e2-86b3-b737ee03444a.otf" media-type="application/vnd.ms-opentype" id="id37"/>
+<item href="ch1-18.xhtml" media-type="application/xhtml+xml" id="id38"/>
+<item href="ch1-15.xhtml" media-type="application/xhtml+xml" id="id39"/>
+<item href="ch1-12.xhtml" media-type="application/xhtml+xml" id="id40"/>
+<item href="ch1-17.xhtml" media-type="application/xhtml+xml" id="id41"/>
+<item href="images/i_006.png" media-type="image/png" id="id42"/>
+<item href="images/i_018.png" media-type="image/png" id="id43"/>
+<item href="ch1-1.xhtml" media-type="application/xhtml+xml" id="id44"/>
+<item href="ch1-3.xhtml" media-type="application/xhtml+xml" id="id45"/>
+<item href="ch1-8.xhtml" media-type="application/xhtml+xml" id="id46"/>
+<item href="ch1-5.xhtml" media-type="application/xhtml+xml" id="id47"/>
+<item href="images/i_014.png" media-type="image/png" id="id48"/>
+<item href="ch1-2.xhtml" media-type="application/xhtml+xml" id="id49"/>
+<item href="images/i_002.png" media-type="image/png" id="id50"/>
+<item href="ch1-7.xhtml" media-type="application/xhtml+xml" id="id51"/>
+<item href="ch1-4.xhtml" media-type="application/xhtml+xml" id="id52"/>
+<item href="ch1-9.xhtml" media-type="application/xhtml+xml" id="id53"/>
+<item href="ch1-6.xhtml" media-type="application/xhtml+xml" id="id54"/>
+</manifest>
+<spine toc="id8">
+<itemref idref="id15"/>
+<itemref idref="id16"/>
+<itemref idref="id44"/>
+<itemref idref="id49"/>
+<itemref idref="id45"/>
+<itemref idref="id52"/>
+<itemref idref="id47"/>
+<itemref idref="id54"/>
+<itemref idref="id51"/>
+<itemref idref="id46"/>
+<itemref idref="id53"/>
+<itemref idref="id36"/>
+<itemref idref="id32"/>
+<itemref idref="id40"/>
+<itemref idref="id35"/>
+<itemref idref="id31"/>
+<itemref idref="id39"/>
+<itemref idref="id34"/>
+<itemref idref="id41"/>
+<itemref idref="id38"/>
+<itemref idref="id33"/>
+<itemref idref="id14"/>
+</spine>
+<guide><reference href="images/cover.jpg" type="cover" title="cover"/>
+</guide></package>

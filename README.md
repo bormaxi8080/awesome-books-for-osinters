@@ -35,6 +35,12 @@
 
 **- [Васильев А.Н. - Программирование на Python в примерах и задачах, Эксмо, 2021 (RU)](/Python/Vasiliev_Programming_Python.pdf)**
 
+**- [Груздев А. - Предварительная подготовка данных в Python, т.I (RU)](/Python/Gruzdev_python_data_1.pdf)
+
+**- [Груздев А. - Предварительная подготовка данных в Python, т.II (RU)](/Python/Gruzdev_python_data_2.pdf)
+
+**- [Продвинутое ипользование Celery](/Python/prodvinutoe-ispolzovanie-celery.pdf)
+
 PHP:
 
 **- [Дэвид Скляр - PHP: Сборник рецептов, O'Relly, 2005 (RU)](/PHP/Sklyar_PHP_Reciepts.pdf)**

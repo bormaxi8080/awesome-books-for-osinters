@@ -1,4 +1,5 @@
 # ProgrammingBooks
+
 Некоторые книги по программированию и другим техническим сферам, которые с удовольствием использую )
 
 * Книги в формате PDF находятся в папках соответствующих разделов.
@@ -10,6 +11,10 @@
 
 
 ## Содержание
+
+*OSINT:*
+
+**- [Python for OSINT: 21 Day Course for Beginners](/OSINT/Python_for_OSINT.21_day_course_for_beginners.pdf)**
 
 *JS:*
 

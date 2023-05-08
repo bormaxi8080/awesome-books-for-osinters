@@ -75,6 +75,8 @@ PHP:
 
 **- [Брендан Бернс, Эдди Вильяльба - Kubernetes, лучшие практики для профессионалов, O'Relly, 2021 (RU)](/DevOps/Berns_Kubernetes_Best_Practices.pdf)**
 
+**- [Islam Salah - Bash Scripting](/DevOps/bash_scripting)**
+
 *Databases:*
 
 **- [Шеннон Бредшоу - MongoDB. Полное руководство, O'Relly, 2020 (RU)](/Databases/)**

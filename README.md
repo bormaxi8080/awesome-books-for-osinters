@@ -1,4 +1,4 @@
-# Awesome Books
+# Awesome Books for OSINTers
 
 Some recommended books for OSINT, Development & DevOps.
 
